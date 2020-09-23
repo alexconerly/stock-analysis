@@ -10,6 +10,8 @@ In order to measure and compare the performance of the original code against the
 
 ![](Resources/startTime.png)
 
+---
+
 ![](Resources/endTIme.png)
 
 Hence, the processing time it took to run each code to produce outputs to Excel was easily obtained by subtracting the difference between the "startTime" variable and the "endTime" variable.  Each code was performed twice; once to analyze stock data for the year 2017 and once again for the year 2018.  The MsgBox function in Excel provided a convenient display of the speed results in a "pop-up" window.
@@ -22,6 +24,8 @@ From the analysis, it is clear the refactored code produced a significantly high
 
 
 ![](Resources/VBA_Challenge_2017.png)
+
+---
 
 ![](Resources/VBA_CHallenge_2018.png)
 
