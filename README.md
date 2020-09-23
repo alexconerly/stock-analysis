@@ -4,9 +4,10 @@
 
 The purpose of this project was to determine whether the act of refactoring a specific code involving stocks analysis would result in a more efficient performance in VBA for Excel.  To begin, a dataset of 3,013 observations involving twelve stock tickers, including their respective daily volumes and prices, were analyzed in a macro using a variety of codes.  These codes included the implementation of arrays, nested for loops, as well as static and conditional formatting to output the calculations for the total daily volumes and percentage returns for each of the twelve stocks.  The same code was then refactored in attempt to improve efficiency for a prospective client named "Steve" who sought a coding method which could be reliable when upscaling its use to analyze the entire stock market.
 
+---
 ## Measuring the Performance
 
-In order to measure and compare the performance of the original code against the refactored code, variables labeled "startTIme" and "endTime" were strategically placed before and after each code, respectively, and assigned to the timer function in of the macros in VBA.  Consequently, the value of each variable retained a useful snapshot of the time, both before and after the moment each code ran.
+In order to measure and compare the performance of the original code against the refactored code, variables labeled "startTIme" and "endTime" were strategically placed before and after each code, respectively, and assigned to the timer function in the macros within VBA.  Consequently, the value of each variable retained a useful snapshot of the time, both before and after the moment each code ran.
 
 ![](Resources/startTime.png)
 
@@ -25,11 +26,11 @@ From the analysis, it is clear the refactored code produced a significantly high
 
 ![](Resources/VBA_Challenge_2017.png)
 
+
+
+![](Resources/VBA_Challenge_2018.png)
+
 ---
-
-![](Resources/VBA_CHallenge_2018.png)
-
-
 
 ## Summary
 
