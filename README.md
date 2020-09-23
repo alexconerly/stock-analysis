@@ -9,6 +9,7 @@ The purpose of this project was to determine whether the act of refactoring a sp
 
 In order to measure and compare the performance of the original code against the refactored code, variables labeled "startTIme" and "endTime" were strategically placed before and after each code, respectively, and assigned to the timer function in the macros within VBA.  Consequently, the value of each variable retained a useful snapshot of the time, both before and after the moment each code ran.
 
+---
 ![](Resources/startTime.png)
 
 ---
