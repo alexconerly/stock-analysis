@@ -1,6 +1,6 @@
 # Stocks-Analysis
 
-![](Resources/pub_domain_image.png)
+![](Resources/NYSE_pub_domain_image.png)
 
 ## Overview of Project
 
